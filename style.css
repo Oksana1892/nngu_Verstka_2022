@@ -1,0 +1,59 @@
+body {
+    font-family: 'Times New Roman';
+    margin: 0%;
+}
+h1 {
+    border: 5px solid rgba(203, 21, 119, 0.3);
+    background: #ffa;
+    font-size: 5.5rem;
+    color: blue;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-left: 50px;
+}
+img {
+    width: 30%;
+    transition: 0.5s;
+}
+img:hover {
+transform: scale(1.1, 1.1);
+}
+
+a {
+    padding: 14px 32px;
+    background: rgba(8, 104, 19, 0.6)8, 104, 19, 0.6
+    border-radius 3px;
+    text-decoration: none;
+    color: #844343
+}
+a:hover {
+    background-color: #090909
+}
+.large {
+    font-size: 20px;
+}
+.blue {
+    background: coral;
+    box-shadow: 2px 1px 50px lightblue;
+} 
+.rounded {
+    border-radius: 30px;
+}
+.block {
+    width: 30%;
+    border-radius: 35px;
+    padding: 25px;
+    
+}
+.block img {
+    width: 90%;
+}
+.red {
+    background: pink;
+}
+.green {
+    background: lightgreen;
+}
+.grey {
+    background: lightskyblue;
+}
